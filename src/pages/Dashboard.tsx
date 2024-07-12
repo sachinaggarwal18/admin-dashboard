@@ -1,10 +1,14 @@
+import AdminSidebar from "../components/AdminSidebar";
 
-
-const dashboard = () => {
+const Dashboard = () => {
   return (
-    <div>
-      hi
+    <div className="adminContainer">
+      <AdminSidebar />
+      <main>
+        hi
+      </main>
     </div>
-  )
-}
-export default dashboard
+  );
+};
+
+export default Dashboard;

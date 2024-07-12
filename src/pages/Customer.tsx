@@ -1,8 +1,12 @@
+import AdminSidebar from "../components/AdminSidebar"
 
 const Customer = () => {
   return (
-    <div>
-      cus
+    <div className="adminContainer">
+      <AdminSidebar />
+      <main>
+      Customer
+      </main>
     </div>
   )
   }
