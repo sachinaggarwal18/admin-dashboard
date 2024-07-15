@@ -1,0 +1,58 @@
+[
+    {
+      "photo": "https://m.media-amazon.com/images/I/61BEhM3G1JL.jpg",
+      "name": "Premium Wheat Flour",
+      "price": 32,
+      "stock": 100,
+      "action": "/admin/product/flour1"
+    },
+    {
+      "photo": "https://images-cdn.ubuy.co.in/634e66890b676105a8290fa3-bombay-market-basmati-white-rice-4.jpg",
+      "name": "Basmati Rice",
+      "price": 100,
+      "stock": 50,
+      "action": "/admin/product/rice1"
+    },
+    {
+      "photo": "https://m.media-amazon.com/images/I/71wVU7pgwAL.jpg",
+      "name": "Kachchi Ghaani Oil",
+      "price": 140,
+      "stock": 30,
+      "action": "/admin/product/oil1"
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmRns7VOcc_oSnLDcEigPJA0Ky5FbgAzRUA&s",
+      "name": "Granulated Sugar",
+      "price": 50,
+      "stock": 75,
+      "action": "/admin/product/sugar1"
+    },
+    {
+      "photo": "https://5.imimg.com/data5/ANDROID/Default/2020/11/XQ/OJ/SG/115733453/product-jpeg.jpeg",
+      "name": "Mixed Spices Pack",
+      "price": 200,
+      "stock": 20,
+      "action": "/admin/product/spices1"
+    },
+    {
+      "photo": "https://m.media-amazon.com/images/I/51QF8woKr5S._AC_UF894,1000_QL80_.jpg",
+      "name": "Tata Tea",
+      "price": 150,
+      "stock": 40,
+      "action": "/admin/product/tea1"
+    },
+    {
+      "photo": "https://www.jiomart.com/images/product/original/491553852/britannia-marie-gold-biscuits-950-g-product-images-o491553852-p491553852-1-202302260446.jpg?im=Resize=(420,420)",
+      "name": "Assorted Biscuits",
+      "price": 80,
+      "stock": 60,
+      "action": "/admin/product/biscuits1"
+    },
+    {
+      "photo": "https://tiimg.tistatic.com/fp/1/007/678/white-smooth-natural-beauty-bar-natural-moisture-for-all-skin-dove-soap--609.jpg",
+      "name": "Herbal Soap",
+      "price": 25,
+      "stock": 120,
+      "action": "/admin/product/soap1"
+    }
+  ]
