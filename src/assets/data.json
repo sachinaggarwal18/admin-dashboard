@@ -1,23 +1,38 @@
 {
   "categories": [
-    {
-      "value": 40,
-      "heading": "Laptops"
-    },
-
-    {
-      "value": 100,
-      "heading": "Shoes"
-    },
-    {
-      "value": 80,
-      "heading": "Cameras"
-    },
-    {
-      "value": 60,
-      "heading": "Jeans"
-    }
-  ],
+  {
+    "value": 40,
+    "heading": "Flour"
+  },
+  {
+    "value": 100,
+    "heading": "Pulses"
+  },
+  {
+    "value": 80,
+    "heading": "Oil"
+  },
+  {
+    "value": 60,
+    "heading": "Sugar"
+  },
+  {
+    "value": 75,
+    "heading": "Rice"
+  },
+  {
+    "value": 50,
+    "heading": "Spices"
+  },
+  {
+    "value": 90,
+    "heading": "Salt"
+  },
+  {
+    "value": 85,
+    "heading": "Tea"
+  }
+],
 
   "transaction": [
     {
