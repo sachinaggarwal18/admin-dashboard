@@ -1,6 +1,7 @@
 @import "./mixin";
 @import "./dashboard";
 @import "./products";
+@import "./chart";
 
 
 :root {
@@ -30,7 +31,7 @@ a {
   color: rgb(0, 195, 0);
 }
 
-.adminContainer{
+.adminContainer {
   @include grid(1fr 4fr, 2rem);
   height: 100vh;
   background-color: rgb(247, 247, 247);
@@ -43,6 +44,11 @@ a {
     overflow-y: auto;
     &::-webkit-scrollbar {
       display: none;
+    }
+
+    > h2 {
+      @include heading(2px);
+      margin-bottom: 1rem;
     }
 
     > div {
@@ -67,7 +73,6 @@ a {
     }
   }
 }
-
 
 .table {
   border-collapse: collapse;
